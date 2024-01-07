@@ -20,4 +20,4 @@ Simple Blogging Utility.
 
 - [LinkedIn](https://www.linkedin.com/in/emadpourhassani/)
 - [Twitter](https://x.com/xemadp)
-- [Personal Website](emadp.xyz)
+- [Personal Website](https://emadp.xyz)
