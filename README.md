@@ -1,16 +1,23 @@
-### Hi there 👋
+# 👋 Hi, Emad Here!
 
-<!--
-**xemadp/xemadp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm am passionate about C,Good old bash, haskell, lisp and python. I love Data Science and enjoy fiddling with C and writing my own lisp dialects for fun; Also a major linux geek who likes to customize my computer at all times for maximum efficiency.
 
-Here are some ideas to get you started:
+## 💼 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** C, Python, Haskell, Lisp
+- **Tools** Bash and General linux knowledge
+
+## 🚀 Projects
+
+### [ESBU](https://github.com/xemadp/esbu)
+Simple Blogging Utility.
+
+## 📈 GitHub Stats
+
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=xemadp&show_icons=true&theme=merko)](https://github.com/xemadp)
+
+## 🌐 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/emadpourhassani/)
+- [Twitter](https://x.com/xemadp)
+- [Personal Website](emadp.xyz)
