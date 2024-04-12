@@ -1,16 +1,19 @@
 # 👋 Hi, Emad Here!
 
-I'm am passionate about C,Good old bash, haskell, lisp and python. I love Data Science and enjoy fiddling with C and writing my own lisp dialects for fun; Also a major linux geek who likes to customize my computer at all times for maximum efficiency.
+I'm am passionate about C,Good old bash, haskell, lisp and python. I love Mathematics and Data science.I enjoy fiddling with C, writing my own lisp dialects and random latex documents for fun; Also a major linux geek who likes to customize my computer at all times for maximum efficiency.
 
 ## 💼 Skills
 
 - **Languages:** C, Python, Haskell, Lisp
-- **Tools** Bash and General linux knowledge
+- **Tools** Bash, Latex and General linux knowledge
 
 ## 🚀 Projects
 
 ### [ESBU](https://github.com/xemadp/esbu)
 Simple Blogging Utility.
+
+### [KNTURetroTech](https://github.com/xemadp/esbu)
+A beamer poster theme for KNTU.
 
 ## 📈 GitHub Stats
 
@@ -20,4 +23,4 @@ Simple Blogging Utility.
 
 - [LinkedIn](https://www.linkedin.com/in/emadpourhassani/)
 - [Twitter](https://x.com/xemadp)
-- [Personal Website](https://emadp.xyz)
+- [Telegram](https://t.me/xemadp)
