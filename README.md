@@ -12,6 +12,9 @@ I'm am passionate about C,Good old bash, haskell, lisp and python. I love Mathem
 ### [ESBU](https://github.com/xemadp/esbu)
 Simple Blogging Utility.
 
+### [KNTUModern](https://github.com/xemadp/kntu-beamer-presentation-modern)
+A modern beamer presentation theme for KNTU.
+
 ### [KNTURetroTech](https://github.com/xemadp/KNTURetroTech)
 A beamer poster theme for KNTU.
 
