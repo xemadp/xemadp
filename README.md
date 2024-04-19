@@ -7,7 +7,7 @@ I'm am passionate about C,Good old bash, haskell, lisp and python. I love Mathem
 - **Languages:** C, Python, Haskell, Lisp
 - **Tools** Bash, Latex and General linux knowledge
 
-## 🚀 Personal Blog
+## 📖 Personal Blog
 I have a habit of writing about different daily stuff, you can find them in this website:
 ### [My Blog](https://xemadp.github.io/blog)
 
