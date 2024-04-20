@@ -16,11 +16,8 @@ I have a habit of writing about different daily stuff, you can find them in this
 ### [ESBU](https://github.com/xemadp/esbu)
 Simple Blogging Utility.
 
-### [KNTUModern](https://github.com/xemadp/kntu-beamer-presentation-modern)
-A modern beamer presentation theme for KNTU.
-
-### [KNTURetroTech](https://github.com/xemadp/KNTURetroTech)
-A beamer poster theme for KNTU.
+### Latex
+You can see some of my Latex Projects ( templates, etc. ) I made for my university on [this page.](https://github.com/KNTU-awesome/latex-templates/)
 
 ## 📈 GitHub Stats
 
