@@ -21,7 +21,7 @@ You can see some of my Latex Projects ( templates, etc. ) I made for my universi
 
 ## 📈 GitHub Stats
 
-[![xemadp's Stats](https://github-readme-stats.vercel.app/api?username=xemadp&theme=gruvbox&show_icons=true&hide_border=false&count_private=true))](https://github.com/xemadp)
+[![xemadp's Stats](https://github-readme-stats.vercel.app/api?username=xemadp&theme=gruvbox&show_icons=true&hide_border=false&count_private=true)](https://github.com/xemadp)
 
 
 [![xemadp's Streak](https://github-readme-streak-stats.herokuapp.com/?user=xemadp&theme=gruvbox&hide_border=false)](https://github.com/xemadp)
